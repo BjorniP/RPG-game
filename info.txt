@@ -1,0 +1,12 @@
+
+//globalBounds get the exact position of a rectangle in the world(desktop,window area or view area mode) coordinates
+//globalBounds().left is the same as getPosition().x
+//globalBounds().top is the same as getPosition().y
+//globalBounds().width is the same as getSize().x
+//globalBounds().height is the same as getSize().y
+
+//left gets the coordinate of the x axis which begins in the top left of desktop (or relative to window that is open)
+//and ends in top right
+
+//top gets the coordinate of the y axis which begins in the top left  of desktop (or relative to window that is open)
+//and ends in top bottom
